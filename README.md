@@ -8,8 +8,8 @@
   <h2>Resources</h2>
 </p>
 
-# Desktop GUI
+## Desktop GUI
 
-# Web GUI
+## Web GUI
 
-# Other Types of GUI
+## Other Types of GUI
