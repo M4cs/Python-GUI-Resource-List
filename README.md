@@ -7,3 +7,9 @@
   <h4 align="center">If you are interested in contributing to this resource list please feel free to open up a PR to the README. Most requests will be merged if they hold useful information. The more resources the better!</h4>
   <h2>Resources</h2>
 </p>
+
+# Desktop GUI
+
+# Web GUI
+
+# Other Types of GUI
